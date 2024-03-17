@@ -226,6 +226,9 @@ def carousel():
                                                 <img src="{url_for('static', filename='img/mars_scenery.jpg')}" class="d-block w-100" alt="">
                                               </div>
                                               <div class="carousel-item">
+                                                <img src="{url_for('static', filename='img/mountains.jpg')}" class="d-block w-100" alt="">
+                                              </div>
+                                              <div class="carousel-item">
                                                 <img src="{url_for('static', filename='img/mars_surface.jpg')}" class="d-block w-100" alt="">
                                               </div>
                                               <div class="carousel-item">
